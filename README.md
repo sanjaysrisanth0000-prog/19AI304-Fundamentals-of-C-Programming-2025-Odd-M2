@@ -233,5 +233,5 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Result:
-  Thus, the program was implemented and executed successfully, and the required output was obtained.
+  Thus, the program was implemented and  executed successfully, and the required output was obtained.
 
